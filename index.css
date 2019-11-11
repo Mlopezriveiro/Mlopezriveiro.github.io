@@ -3,6 +3,11 @@ body {
    background-repeat: no-repeat;
     background-position: right top;
   margin-right: 200px;
+	background-image: url("https://img2.freepng.es/20180325/sbw/kisspng-leonardo-raphael-teenage-mutant-ninja-turtles-draw-ninja-turtles-5ab76957f2a2c8.8106269215219694959938.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  margin-left: 200px;
+}
 	}
 
 h2 {
