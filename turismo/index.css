@@ -1,15 +1,15 @@
 body {
- background-color: rgb(201, 76, 76);
-	background-image: url(https://vignette.wikia.nocookie.net/tortugasninja/images/0/0a/Donatello_TMNT_2007.png/revision/latest?cb=20140417195533&path-prefix=es);
-   background-repeat: no-repeat;
-    background-position: right top;
-	}
+ 
+	background-image: url("https://images.genius.com/d0bc88e39fc7bedd05a4a8079445a357.1000x1000x1.jpg");
+  	}
 
 h2 {
 	margin: 54px;
 	text-align: center;
+	color: red;
 }
 
 p {
 	text-align: center;
+	color: red;
 }
