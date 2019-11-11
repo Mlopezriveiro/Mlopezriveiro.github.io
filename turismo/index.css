@@ -1,6 +1,8 @@
 body {
-  background-image: url(https://as.com/epik/imagenes/2018/08/22/portada/1534933103_830424_1534933353_noticia_normal.jpg);
+ background-color: rgb(201, 76, 76);
+	background-image: url(https://vignette.wikia.nocookie.net/tortugasninja/images/0/0a/Donatello_TMNT_2007.png/revision/latest?cb=20140417195533&path-prefix=es);
    background-repeat: no-repeat;
+    background-position: right top;
 	}
 
 h2 {
